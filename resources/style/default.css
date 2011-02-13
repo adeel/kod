@@ -14,7 +14,7 @@
  * only works when editing the stylesheet in Kod.
  */
 body {
-  font-family: "M+ 1m", monospace;
+  font-family: Monaco, monospace;
   font-size: 11px;
   background-color:#222;
   color: #eee;
